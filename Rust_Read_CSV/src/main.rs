@@ -8,7 +8,7 @@ fn read_from_file(path: &str) -> Result<(), Box<dyn Err>> {
         let record = result?;
         println!("{:?}", record);
     }
-    ok(())
+    Ok(())
 }
 
 fn main() {
