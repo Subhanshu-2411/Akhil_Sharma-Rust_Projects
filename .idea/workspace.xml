@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d73a18-1581-43b7-9873-476ec176e863" name="Changes" comment="" />
+    <list default="true" id="14d73a18-1581-43b7-9873-476ec176e863" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rust_Async_Await/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Rust_Async_Await/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rust_Async_Await/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Rust_Async_Await/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rust_Get_Request/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Rust_Get_Request/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rust_Get_Request/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Rust_Get_Request/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +44,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/Users/subha/WebstormProjects/Akhil_Sharma/Rust_API_Call/src/main.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/Users/subha/WebstormProjects/Akhil_Sharma/Rust_Decompress/src/main.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/Users/subha/WebstormProjects/Akhil_Sharma/Rust_Read_CSV/src/main.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/Users/subha/WebstormProjects/Akhil_Sharma/Rust_Read_JSON/Cargo.toml": "true",
@@ -61,6 +68,7 @@
       <updated>1678707233225</updated>
       <workItem from="1678707234519" duration="2714000" />
       <workItem from="1679017589143" duration="831000" />
+      <workItem from="1679080028494" duration="1238000" />
     </task>
     <servers />
   </component>
